@@ -1,0 +1,12 @@
+li {
+    display: flex;
+    align-items: center; /* Align items at the same height */
+    justify-content: space-between; /* Space items evenly */
+    margin-bottom: 10px; /* Space between lines */
+    flex-wrap: wrap; /* Allows items to fit across multiple lines if needed */
+}
+
+li span {
+    flex-grow: 1; /* The text occupies the available space */
+    margin-right: 10px; /* Space to the right of the text */
+}
