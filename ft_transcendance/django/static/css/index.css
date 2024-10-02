@@ -1,0 +1,143 @@
+/* Background Colors */
+
+.body_background_color {
+    background-color: antiquewhite;
+}
+
+.my_bacground_grey {
+    background-color:#747474;
+}
+
+.background-dashboard {
+    background-color:gray;
+}
+
+.background-dashboard-2 {
+    background-color:dimgray;
+}
+
+/* Buttons */
+
+.button-custom-logout {
+    background-color: #ff0000;
+    border: none;
+    cursor: pointer;
+	color: white;
+}
+
+.button-custom-logout:hover {
+    background-color: #5c0707;
+    color: antiquewhite;
+    border: none;
+    cursor: pointer;
+}
+
+.button-custom-menu {
+    background-color: #808080;
+    border: none;
+    cursor: pointer;
+	color: white;
+}
+
+.button-custom-menu:hover {
+    color: black;
+    background-color: antiquewhite;
+}
+
+.button-custom {
+    background-color: dimgray;
+    color: azure;
+    border: none;
+    cursor: pointer;
+}
+
+.button-custom:hover {
+    color: black;
+    background-color: antiquewhite;
+}
+
+.button-custom-nocolor {
+    color: azure;
+    border: none;
+    cursor: pointer;
+}
+
+.button-custom-nocolor:hover {
+    color: black;
+    background-color: antiquewhite;
+}
+
+.icon_sm {
+    height: 30px;
+    width: auto;
+}
+
+.icon-friend-size{
+    height: 30px;
+    width: auto;
+}
+
+/* Sizes in h-vh */
+.h-2vh {
+    height: 2vh;
+}
+
+.h-4vh {
+    height: 4vh;
+}
+
+.h-6vh {
+    height: 6vh;
+}
+
+.h-8vh {
+    height: 8vh;
+}
+
+.h-10vh {
+    height: 10vh;
+}
+
+.h-20vh {
+    height: 20vh;
+}
+
+.h-30vh {
+    height: 30vh;
+}
+
+.h-40vh {
+    height: 40vh;
+}
+
+.h-50vh {
+    height: 50vh;
+}
+
+.h-60vh {
+    height: 60vh;
+}
+
+.h-70vh {
+    height: 70vh;
+}
+
+.h-80vh {
+    height: 80vh;
+}
+
+.h-90vh {
+    height: 90vh;
+}
+
+.h-100vh {
+    height: 100vh;
+}
+
+/* Fontes */
+.Title_page {
+	color: white;
+    font-family: "arial", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
